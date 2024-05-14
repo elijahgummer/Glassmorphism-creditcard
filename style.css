@@ -67,7 +67,7 @@ section::after {
 .front-face header {
   justify-content: space-between;
 }
-.front-face .logo img {
+.front-face .logo svg {
   width: 48px;
   margin-right: 10px;
 }
